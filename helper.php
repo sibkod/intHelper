@@ -1,6 +1,6 @@
 <?php
 
-class int_helper
+class intHelper
 {
     public static function int8($i) {
         return is_int($i) ? pack("c", $i) : unpack("c", $i)[1];
