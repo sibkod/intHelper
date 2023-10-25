@@ -1,3 +1,3 @@
 # intHelper
 
-php int helper
+int helper
